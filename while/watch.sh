@@ -6,7 +6,7 @@ while :; do
     | jq --indent 0 '.banks[] | [ .name, .id, .rate.volume_id, .rate.sell ]' \
     | sort > b.json
   date
-  diff a.json b.json
+  diff -u --color a.json b.json
   sleep 60
 done
 
