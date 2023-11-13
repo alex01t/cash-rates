@@ -1,0 +1,8279 @@
+{
+  "banks": [
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Площадь Победы",
+      "metro": [
+        [
+          "Парк Победы (Солнцевская)",
+          "y9",
+          56,
+          445,
+          "445 м"
+        ]
+      ],
+      "phones": [
+        "+7 985 285-60-02"
+      ],
+      "premium_type": "premium2",
+      "coordinates": [
+        55.737689,
+        37.521165
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103383
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Сущевском Валу",
+      "metro": [
+        [
+          "Марьина Роща",
+          "e1",
+          52,
+          276,
+          "276 м"
+        ],
+        [
+          "Савёловская",
+          "d8",
+          51,
+          2043,
+          "2.0 км"
+        ],
+        [
+          "Бутырская",
+          "e18",
+          52,
+          2526,
+          "2.5 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 022-53-67"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.793308,
+        37.620501
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:18",
+      "rate": {
+        "sell": "92.70",
+        "buy": "92.50",
+        "summa": 10000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102665
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 196",
+      "metro": [
+        [
+          "Партизанская",
+          "b4",
+          46,
+          81,
+          "81 м"
+        ],
+        [
+          "Измайлово",
+          "z17",
+          57,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.788434,
+        37.747972
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:18",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103188
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 201",
+      "metro": [
+        [
+          "Коммунарка",
+          "r26",
+          44,
+          1148,
+          "1.1 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 511-41-96"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.566435,
+        37.482978
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:18",
+      "rate": {
+        "sell": "93.90",
+        "buy": "91.50",
+        "summa": 3000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103240
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Сущевском Валу",
+      "metro": [
+        [
+          "Марьина Роща",
+          "e1",
+          52,
+          276,
+          "276 м"
+        ],
+        [
+          "Савёловская",
+          "d8",
+          51,
+          2043,
+          "2.0 км"
+        ],
+        [
+          "Бутырская",
+          "e18",
+          52,
+          2526,
+          "2.5 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 022-53-67"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.793308,
+        37.620501
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:18",
+      "rate": {
+        "sell": "93.90",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102665
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Сущевском Валу",
+      "metro": [
+        [
+          "Марьина Роща",
+          "e1",
+          52,
+          276,
+          "276 м"
+        ],
+        [
+          "Савёловская",
+          "d8",
+          51,
+          2043,
+          "2.0 км"
+        ],
+        [
+          "Бутырская",
+          "e18",
+          52,
+          2526,
+          "2.5 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 022-53-67"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.793308,
+        37.620501
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:18",
+      "rate": {
+        "sell": "93.70",
+        "buy": "92.50",
+        "summa": 30000,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 102665
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОO № 61",
+      "metro": [
+        [
+          "Щёлковская",
+          "b1",
+          46,
+          202,
+          "202 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.808452,
+        37.799203
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:17",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103268
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Электрозаводская",
+      "metro": [
+        [
+          "Электрозаводская (Арбатско-Покровская)",
+          "b6",
+          46,
+          73,
+          "73 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 566"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.782071,
+        37.704116
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:17",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102407
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОO № 61",
+      "metro": [
+        [
+          "Щёлковская",
+          "b1",
+          46,
+          202,
+          "202 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.808452,
+        37.799203
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:17",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103268
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Некрасовка",
+      "metro": [
+        [
+          "Некрасовка",
+          "w11",
+          58,
+          357,
+          "357 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.702896,
+        37.922362
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:17",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.20",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103449
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Электрозаводская",
+      "metro": [
+        [
+          "Электрозаводская (Арбатско-Покровская)",
+          "b6",
+          46,
+          73,
+          "73 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 566"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.782071,
+        37.704116
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:17",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102407
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Профсоюзная",
+      "metro": [
+        [
+          "Профсоюзная",
+          "o17",
+          49,
+          105,
+          "105 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 508"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.678458,
+        37.564257
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103291
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Новопеределкино ТЦ М30",
+      "metro": [
+        [
+          "Новопеределкино",
+          "y19",
+          56,
+          104,
+          "104 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.640548,
+        37.355201
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103396
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Новопеределкино ТЦ М30",
+      "metro": [
+        [
+          "Новопеределкино",
+          "y19",
+          56,
+          104,
+          "104 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.640548,
+        37.355201
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103396
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Войковская",
+      "metro": [
+        [
+          "Войковская",
+          "g3",
+          45,
+          255,
+          "255 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 511"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.817112,
+        37.50027
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103299
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 206",
+      "metro": [
+        [
+          "Кузьминки",
+          "v4",
+          50,
+          147,
+          "147 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.704098,
+        37.765785
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103300
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 121",
+      "metro": [
+        [
+          "Алтуфьево",
+          "d1",
+          51,
+          86,
+          "86 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.897791,
+        37.588233
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.90",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103123
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 99",
+      "metro": [
+        [
+          "Аннино",
+          "d24",
+          51,
+          3478,
+          "3.5 км"
+        ],
+        [
+          "Улица Академика Янгеля",
+          "d23",
+          51,
+          3596,
+          "3.6 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.580676,
+        37.651717
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103330
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Профсоюзная",
+      "metro": [
+        [
+          "Профсоюзная",
+          "o17",
+          49,
+          105,
+          "105 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 508"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.678458,
+        37.564257
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103291
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 121",
+      "metro": [
+        [
+          "Алтуфьево",
+          "d1",
+          51,
+          86,
+          "86 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.897791,
+        37.588233
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103123
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 206",
+      "metro": [
+        [
+          "Кузьминки",
+          "v4",
+          50,
+          147,
+          "147 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.704098,
+        37.765785
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103300
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 99",
+      "metro": [
+        [
+          "Аннино",
+          "d24",
+          51,
+          3478,
+          "3.5 км"
+        ],
+        [
+          "Улица Академика Янгеля",
+          "d23",
+          51,
+          3596,
+          "3.6 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.580676,
+        37.651717
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103330
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Войковская",
+      "metro": [
+        [
+          "Войковская",
+          "g3",
+          45,
+          255,
+          "255 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 511"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.817112,
+        37.50027
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:16",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103299
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Тушинская",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          290,
+          "290 м"
+        ],
+        [
+          "Спартак",
+          "v22",
+          50,
+          750,
+          "750 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 531"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.824875,
+        37.434999
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103120
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Жулебино",
+      "metro": [
+        [
+          "Жулебино",
+          "v1",
+          50,
+          403,
+          "403 м"
+        ],
+        [
+          "Котельники",
+          "v23",
+          50,
+          927,
+          "927 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 515",
+        "+7 495 786-37-73 доб. 539"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.681255,
+        37.852212
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "94.10",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103117
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Ленинградское шоссе",
+      "metro": [
+        [
+          "Войковская",
+          "g3",
+          45,
+          191,
+          "191 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.819894,
+        37.495285
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103431
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Ленинградское шоссе",
+      "metro": [
+        [
+          "Войковская",
+          "g3",
+          45,
+          191,
+          "191 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.819894,
+        37.495285
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103431
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 183",
+      "metro": null,
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.751335,
+        38.006579
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.80",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103085
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 107",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          13290,
+          "13.3 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.913979,
+        37.868687
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103399
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 183",
+      "metro": null,
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.751335,
+        38.006579
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.70",
+        "buy": "92.00",
+        "summa": 5001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103085
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Жулебино",
+      "metro": [
+        [
+          "Жулебино",
+          "v1",
+          50,
+          403,
+          "403 м"
+        ],
+        [
+          "Котельники",
+          "v23",
+          50,
+          927,
+          "927 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 515",
+        "+7 495 786-37-73 доб. 539"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.681255,
+        37.852212
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "94.10",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103117
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Тушинская",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          290,
+          "290 м"
+        ],
+        [
+          "Спартак",
+          "v22",
+          50,
+          750,
+          "750 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 531"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.824875,
+        37.434999
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103120
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 207",
+      "metro": [
+        [
+          "Дмитровская (Серпуховско-Тимирязевская)",
+          "d7",
+          51,
+          459,
+          "459 м"
+        ],
+        [
+          "Дмитровская (МЦД-2)",
+          "p14",
+          62,
+          393,
+          "393 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.807921,
+        37.57351
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103301
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 207",
+      "metro": [
+        [
+          "Дмитровская (Серпуховско-Тимирязевская)",
+          "d7",
+          51,
+          459,
+          "459 м"
+        ],
+        [
+          "Дмитровская (МЦД-2)",
+          "p14",
+          62,
+          393,
+          "393 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.807921,
+        37.57351
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.90",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103301
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 107",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          13290,
+          "13.3 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.913979,
+        37.868687
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:15",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103399
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Сокол",
+      "metro": [
+        [
+          "Сокол",
+          "g4",
+          45,
+          194,
+          "194 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 538"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.806059,
+        37.513305
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103259
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Таганская",
+      "metro": [
+        [
+          "Марксистская",
+          "y7",
+          56,
+          62,
+          "62 м"
+        ],
+        [
+          "Таганская (Кольцевая)",
+          "c5",
+          48,
+          318,
+          "318 м"
+        ],
+        [
+          "Таганская (Таганско-Краснопресненская)",
+          "v8",
+          50,
+          318,
+          "318 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 534"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.740887,
+        37.657691
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "93.20",
+        "buy": "92.40",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103203
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ОО Парковый",
+      "metro": [
+        [
+          "Первомайская",
+          "b2",
+          46,
+          80,
+          "80 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 542"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795044,
+        37.799912
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "94.00",
+        "buy": "92.20",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102331
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ОО Парковый",
+      "metro": [
+        [
+          "Первомайская",
+          "b2",
+          46,
+          80,
+          "80 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 542"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795044,
+        37.799912
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "94.00",
+        "buy": "92.50",
+        "summa": 2999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102331
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Сокол",
+      "metro": [
+        [
+          "Сокол",
+          "g4",
+          45,
+          194,
+          "194 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 538"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.806059,
+        37.513305
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103259
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Таганская",
+      "metro": [
+        [
+          "Марксистская",
+          "y7",
+          56,
+          62,
+          "62 м"
+        ],
+        [
+          "Таганская (Кольцевая)",
+          "c5",
+          48,
+          318,
+          "318 м"
+        ],
+        [
+          "Таганская (Таганско-Краснопресненская)",
+          "v8",
+          50,
+          318,
+          "318 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 534"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.740887,
+        37.657691
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:14",
+      "rate": {
+        "sell": "93.20",
+        "buy": "92.40",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103203
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Марьино",
+      "metro": [
+        [
+          "Марьино",
+          "e14",
+          52,
+          100,
+          "100 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 523"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.650505,
+        37.745924
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "93.40",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103194
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 50",
+      "metro": null,
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.436699,
+        37.773816
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "95.00",
+        "buy": "92.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103210
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Семеновский",
+      "metro": [
+        [
+          "Семёновская",
+          "b5",
+          46,
+          62,
+          "62 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 502",
+        "+7 495 786-37-73 доб. 532"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.783514,
+        37.720232
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102939
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 50",
+      "metro": null,
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.436699,
+        37.773816
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "95.00",
+        "buy": "92.50",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103210
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Марьино",
+      "metro": [
+        [
+          "Марьино",
+          "e14",
+          52,
+          100,
+          "100 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 523"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.650505,
+        37.745924
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "93.40",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103194
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 50",
+      "metro": null,
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.436699,
+        37.773816
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103210
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Семеновский",
+      "metro": [
+        [
+          "Семёновская",
+          "b5",
+          46,
+          62,
+          "62 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 502",
+        "+7 495 786-37-73 доб. 532"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.783514,
+        37.720232
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:13",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102939
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Борисово",
+      "metro": [
+        [
+          "Борисово",
+          "e15",
+          52,
+          311,
+          "311 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 543"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.6341,
+        37.748664
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.80",
+        "buy": "92.40",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103155
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Проспект Вернадского",
+      "metro": [
+        [
+          "Проспект Вернадского",
+          "r18",
+          44,
+          696,
+          "696 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.680747,
+        37.514563
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103385
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 188",
+      "metro": [
+        [
+          "Бульвар Рокоссовского (МЦК)",
+          "z19",
+          57,
+          411,
+          "411 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.814057,
+        37.733536
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103191
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Люсиновская",
+      "metro": [
+        [
+          "Серпуховская",
+          "d14",
+          51,
+          255,
+          "255 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.724834,
+        37.623151
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103382
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Люблинская",
+      "metro": [
+        [
+          "Марьино",
+          "e14",
+          52,
+          404,
+          "404 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.647178,
+        37.746885
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103387
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Борисово",
+      "metro": [
+        [
+          "Борисово",
+          "e15",
+          52,
+          311,
+          "311 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 543"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.6341,
+        37.748664
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.80",
+        "buy": "92.40",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103155
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Свободный проспект",
+      "metro": [
+        [
+          "Новогиреево",
+          "y2",
+          56,
+          380,
+          "380 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.74827,
+        37.816405
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103388
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Новопеределкино",
+      "metro": [
+        [
+          "Новопеределкино",
+          "y19",
+          56,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 513"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.637078,
+        37.353189
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "94.10",
+        "buy": "91.80",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102582
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Бутырская",
+      "metro": [
+        [
+          "Савёловская",
+          "d8",
+          51,
+          285,
+          "285 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795843,
+        37.584981
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103386
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Варшавское шоссе",
+      "metro": [
+        [
+          "Нагатинская",
+          "d16",
+          51,
+          487,
+          "487 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.679057,
+        37.624004
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.52",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103389
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Новопеределкино",
+      "metro": [
+        [
+          "Новопеределкино",
+          "y19",
+          56,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 513"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.637078,
+        37.353189
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "94.10",
+        "buy": "91.80",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102582
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Каширское шоссе",
+      "metro": [
+        [
+          "Каширская (Замоскворецкая)",
+          "g15",
+          45,
+          304,
+          "304 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.652913,
+        37.647307
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103390
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк Дмитровское шоссе",
+      "metro": [
+        [
+          "Окружная (Люблинско-Дмитровская)",
+          "e21",
+          52,
+          400,
+          "400 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.845547,
+        37.569306
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103392
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Ярцевская",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          474,
+          "474 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.737568,
+        37.41193
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103380
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Бакунинская",
+      "metro": [
+        [
+          "Бауманская",
+          "b7",
+          46,
+          746,
+          "746 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.776715,
+        37.688144
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.09",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103381
+    },
+    {
+      "reserve_url": "https://bron.kamkombank.ru/?utm_source=online&utm_medium=rbk&utm_campaign=moscow",
+      "name": "Камкомбанк ул. Тверская",
+      "metro": [
+        [
+          "Тверская",
+          "g9",
+          45,
+          444,
+          "444 м"
+        ]
+      ],
+      "phones": [
+        "+7 958 285-60-02"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.761523,
+        37.610727
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "93.29",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": true
+      },
+      "id": 103384
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 188",
+      "metro": [
+        [
+          "Бульвар Рокоссовского (МЦК)",
+          "z19",
+          57,
+          411,
+          "411 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.814057,
+        37.733536
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:12",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103191
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Алексеевская",
+      "metro": [
+        [
+          "Алексеевская",
+          "o6",
+          49,
+          137,
+          "137 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 507"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.806762,
+        37.637569
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "93.60",
+        "buy": "92.40",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103342
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 11",
+      "metro": [
+        [
+          "Киевская (Арбатско-Покровская)",
+          "b12",
+          46,
+          208,
+          "208 м"
+        ],
+        [
+          "Киевская (Кольцевая)",
+          "c10",
+          48,
+          208,
+          "208 м"
+        ],
+        [
+          "Студенческая",
+          "l7",
+          47,
+          1288,
+          "1.3 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.744632,
+        37.566072
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102843
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 139",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61024,
+        38.088451
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102729
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Алексеевская",
+      "metro": [
+        [
+          "Алексеевская",
+          "o6",
+          49,
+          137,
+          "137 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 507"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.806762,
+        37.637569
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "93.60",
+        "buy": "92.40",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103342
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 199",
+      "metro": [
+        [
+          "Бульвар Адмирала Ушакова",
+          "a4",
+          54,
+          181,
+          "181 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.547036,
+        37.543237
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103198
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Братиславская",
+      "metro": [
+        [
+          "Братиславская",
+          "e13",
+          52,
+          288,
+          "288 м"
+        ],
+        [
+          "Марьино",
+          "e14",
+          52,
+          1170,
+          "1.2 км"
+        ],
+        [
+          "Люблино",
+          "e12",
+          52,
+          1893,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 562"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.659119,
+        37.755006
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102339
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 199",
+      "metro": [
+        [
+          "Бульвар Адмирала Ушакова",
+          "a4",
+          54,
+          181,
+          "181 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.547036,
+        37.543237
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103198
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 11",
+      "metro": [
+        [
+          "Киевская (Арбатско-Покровская)",
+          "b12",
+          46,
+          208,
+          "208 м"
+        ],
+        [
+          "Киевская (Кольцевая)",
+          "c10",
+          48,
+          208,
+          "208 м"
+        ],
+        [
+          "Студенческая",
+          "l7",
+          47,
+          1288,
+          "1.3 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.744632,
+        37.566072
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102843
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 139",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61024,
+        38.088451
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102729
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Братиславская",
+      "metro": [
+        [
+          "Братиславская",
+          "e13",
+          52,
+          288,
+          "288 м"
+        ],
+        [
+          "Марьино",
+          "e14",
+          52,
+          1170,
+          "1.2 км"
+        ],
+        [
+          "Люблино",
+          "e12",
+          52,
+          1893,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 562"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.659119,
+        37.755006
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:11",
+      "rate": {
+        "sell": "93.90",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102339
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Курская",
+      "metro": [
+        [
+          "Курская (Арбатско-Покровская)",
+          "b8",
+          46,
+          257,
+          "257 м"
+        ],
+        [
+          "Курская (Кольцевая)",
+          "c4",
+          48,
+          257,
+          "257 м"
+        ],
+        [
+          "Чкаловская",
+          "e5",
+          52,
+          180,
+          "180 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 528"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.756994,
+        37.657098
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:10",
+      "rate": {
+        "sell": "93.20",
+        "buy": "92.40",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103111
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Курская",
+      "metro": [
+        [
+          "Курская (Арбатско-Покровская)",
+          "b8",
+          46,
+          257,
+          "257 м"
+        ],
+        [
+          "Курская (Кольцевая)",
+          "c4",
+          48,
+          257,
+          "257 м"
+        ],
+        [
+          "Чкаловская",
+          "e5",
+          52,
+          180,
+          "180 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-73",
+        "+7 495 786-37-73 доб. 528"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.756994,
+        37.657098
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:10",
+      "rate": {
+        "sell": "93.20",
+        "buy": "92.40",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103111
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 193",
+      "metro": [
+        [
+          "Каширская (Замоскворецкая)",
+          "g15",
+          45,
+          305,
+          "305 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.653319,
+        37.646139
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:10",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103185
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 193",
+      "metro": [
+        [
+          "Каширская (Замоскворецкая)",
+          "g15",
+          45,
+          305,
+          "305 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.653319,
+        37.646139
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:10",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103185
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1098",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          7986,
+          "8.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 880 055-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.741014,
+        37.543534
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:09",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 103473
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1098",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          7986,
+          "8.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 880 055-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.741014,
+        37.543534
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:09",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 103473
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Мини-офис Тверская",
+      "metro": [
+        [
+          "Охотный ряд",
+          "r10",
+          44,
+          480,
+          "480 м"
+        ],
+        [
+          "Тверская",
+          "g9",
+          45,
+          581,
+          "581 м"
+        ],
+        [
+          "Пушкинская",
+          "v11",
+          50,
+          773,
+          "773 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.760256,
+        37.611446
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:09",
+      "rate": {
+        "sell": "93.30",
+        "buy": "92.30",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103485
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1098",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          7986,
+          "8.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 880 055-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.741014,
+        37.543534
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:09",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 103473
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ Трансстройбанк ДО Мини-офис Тверская",
+      "metro": [
+        [
+          "Охотный ряд",
+          "r10",
+          44,
+          480,
+          "480 м"
+        ],
+        [
+          "Тверская",
+          "g9",
+          45,
+          581,
+          "581 м"
+        ],
+        [
+          "Пушкинская",
+          "v11",
+          50,
+          773,
+          "773 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 786-37-74"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.760256,
+        37.611446
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:09",
+      "rate": {
+        "sell": "93.30",
+        "buy": "92.30",
+        "summa": 4999,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103485
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 189",
+      "metro": [
+        [
+          "Люблино",
+          "p22",
+          62,
+          2491,
+          "2.5 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.676286,
+        37.770349
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "93.30",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103187
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ АВАНГАРД ДО Монетчиковский",
+      "metro": [
+        [
+          "Павелецкая (Кольцевая)",
+          "c6",
+          48,
+          642,
+          "642 м"
+        ],
+        [
+          "Павелецкая (Замоскворецкая)",
+          "g12",
+          45,
+          642,
+          "642 м"
+        ],
+        [
+          "Добрынинская",
+          "c7",
+          48,
+          576,
+          "576 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 730-02-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.732225,
+        37.629691
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "93.00",
+        "buy": "92.40",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103153
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1797",
+      "metro": [
+        [
+          "Деловой центр (Большая кольцевая)",
+          "k8",
+          59,
+          218,
+          "218 м"
+        ],
+        [
+          "Международная",
+          "l6",
+          47,
+          256,
+          "256 м"
+        ],
+        [
+          "Деловой центр (Солнцевская)",
+          "y10",
+          56,
+          350,
+          "350 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.747927,
+        37.537344
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 103476
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ АВАНГАРД ДО Монетчиковский",
+      "metro": [
+        [
+          "Павелецкая (Кольцевая)",
+          "c6",
+          48,
+          642,
+          "642 м"
+        ],
+        [
+          "Павелецкая (Замоскворецкая)",
+          "g12",
+          45,
+          642,
+          "642 м"
+        ],
+        [
+          "Добрынинская",
+          "c7",
+          48,
+          576,
+          "576 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 730-02-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.732225,
+        37.629691
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "93.00",
+        "buy": "92.40",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103153
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1797",
+      "metro": [
+        [
+          "Деловой центр (Большая кольцевая)",
+          "k8",
+          59,
+          218,
+          "218 м"
+        ],
+        [
+          "Международная",
+          "l6",
+          47,
+          256,
+          "256 м"
+        ],
+        [
+          "Деловой центр (Солнцевская)",
+          "y10",
+          56,
+          350,
+          "350 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.747927,
+        37.537344
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 103476
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 180",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          431,
+          "431 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.738596,
+        37.411014
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103101
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 180",
+      "metro": [
+        [
+          "Молодёжная",
+          "b16",
+          46,
+          431,
+          "431 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.738596,
+        37.411014
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103101
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/1797",
+      "metro": [
+        [
+          "Деловой центр (Большая кольцевая)",
+          "k8",
+          59,
+          218,
+          "218 м"
+        ],
+        [
+          "Международная",
+          "l6",
+          47,
+          256,
+          "256 м"
+        ],
+        [
+          "Деловой центр (Солнцевская)",
+          "y10",
+          56,
+          350,
+          "350 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.747927,
+        37.537344
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 103476
+    },
+    {
+      "reserve_url": null,
+      "name": "АКБ АВАНГАРД ДО Монетчиковский",
+      "metro": [
+        [
+          "Павелецкая (Кольцевая)",
+          "c6",
+          48,
+          642,
+          "642 м"
+        ],
+        [
+          "Павелецкая (Замоскворецкая)",
+          "g12",
+          45,
+          642,
+          "642 м"
+        ],
+        [
+          "Добрынинская",
+          "c7",
+          48,
+          576,
+          "576 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 730-02-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.732225,
+        37.629691
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:08",
+      "rate": {
+        "sell": "93.00",
+        "buy": "92.40",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103153
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01715",
+      "metro": [
+        [
+          "Братиславская",
+          "e13",
+          52,
+          440,
+          "440 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.659358,
+        37.75744
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 102702
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 210",
+      "metro": null,
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.416596,
+        37.835369
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103303
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 145 Люберцы",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.682458,
+        37.898215
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103197
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 210",
+      "metro": null,
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.416596,
+        37.835369
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103303
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01715",
+      "metro": [
+        [
+          "Братиславская",
+          "e13",
+          52,
+          440,
+          "440 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.659358,
+        37.75744
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 102702
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 145 Люберцы",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.682458,
+        37.898215
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103197
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01715",
+      "metro": [
+        [
+          "Братиславская",
+          "e13",
+          52,
+          440,
+          "440 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.659358,
+        37.75744
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:07",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 102702
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 126",
+      "metro": [
+        [
+          "Выставочный центр",
+          "i5",
+          55,
+          406,
+          "406 м"
+        ],
+        [
+          "ВДНХ",
+          "o5",
+          49,
+          686,
+          "686 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.824481,
+        37.632053
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103209
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/01304",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          157,
+          "157 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61994,
+        37.507205
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 103404
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01504",
+      "metro": [
+        [
+          "Крылатское",
+          "b17",
+          46,
+          276,
+          "276 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.759238,
+        37.409244
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 102701
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 126",
+      "metro": [
+        [
+          "Выставочный центр",
+          "i5",
+          55,
+          406,
+          "406 м"
+        ],
+        [
+          "ВДНХ",
+          "o5",
+          49,
+          686,
+          "686 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.824481,
+        37.632053
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103209
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/01304",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          157,
+          "157 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61994,
+        37.507205
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 103404
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/01304",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          157,
+          "157 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61994,
+        37.507205
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 103404
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01504",
+      "metro": [
+        [
+          "Крылатское",
+          "b17",
+          46,
+          276,
+          "276 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.759238,
+        37.409244
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 102701
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01504",
+      "metro": [
+        [
+          "Крылатское",
+          "b17",
+          46,
+          276,
+          "276 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.759238,
+        37.409244
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:06",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 102701
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/849",
+      "metro": [
+        [
+          "Нижегородская (МЦК)",
+          "z25",
+          57,
+          208,
+          "208 м"
+        ],
+        [
+          "Нижегородская (Некрасовская)",
+          "w4",
+          58,
+          169,
+          "169 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.730281,
+        37.729284
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:05",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 103471
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/849",
+      "metro": [
+        [
+          "Нижегородская (МЦК)",
+          "z25",
+          57,
+          208,
+          "208 м"
+        ],
+        [
+          "Нижегородская (Некрасовская)",
+          "w4",
+          58,
+          169,
+          "169 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.730281,
+        37.729284
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:05",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 103471
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО №9038/849",
+      "metro": [
+        [
+          "Нижегородская (МЦК)",
+          "z25",
+          57,
+          208,
+          "208 м"
+        ],
+        [
+          "Нижегородская (Некрасовская)",
+          "w4",
+          58,
+          169,
+          "169 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.730281,
+        37.729284
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:05",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 103471
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01421",
+      "metro": [
+        [
+          "Ясенево",
+          "o23",
+          49,
+          139,
+          "139 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.607144,
+        37.531997
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:04",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": null
+      },
+      "id": 103130
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 185",
+      "metro": [
+        [
+          "Некрасовка",
+          "w11",
+          58,
+          232,
+          "232 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.70319,
+        37.931713
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:04",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103189
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01421",
+      "metro": [
+        [
+          "Ясенево",
+          "o23",
+          49,
+          139,
+          "139 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.607144,
+        37.531997
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:04",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": null
+      },
+      "id": 103130
+    },
+    {
+      "reserve_url": null,
+      "name": "Сбербанк ДО № 9038/01421",
+      "metro": [
+        [
+          "Ясенево",
+          "o23",
+          49,
+          139,
+          "139 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 555-55-50"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.607144,
+        37.531997
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:04",
+      "rate": {
+        "sell": "92.30",
+        "buy": "85.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": null
+      },
+      "id": 103130
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 23",
+      "metro": [
+        [
+          "Багратионовская",
+          "l10",
+          47,
+          645,
+          "645 м"
+        ],
+        [
+          "Фили (Филёвская)",
+          "l9",
+          47,
+          500,
+          "500 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.743654,
+        37.508131
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:03",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103212
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 23",
+      "metro": [
+        [
+          "Багратионовская",
+          "l10",
+          47,
+          645,
+          "645 м"
+        ],
+        [
+          "Фили (Филёвская)",
+          "l9",
+          47,
+          500,
+          "500 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.743654,
+        37.508131
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:03",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103212
+    },
+    {
+      "reserve_url": null,
+      "name": "БАНК КРЕМЛЕВСКИЙ ДО Лесной",
+      "metro": [
+        [
+          "Белорусская (Кольцевая)",
+          "c12",
+          48,
+          314,
+          "314 м"
+        ],
+        [
+          "Менделеевская",
+          "d9",
+          51,
+          662,
+          "662 м"
+        ]
+      ],
+      "phones": [
+        "+7 903 599-00-58"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.77952,
+        37.588952
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:00",
+      "rate": {
+        "sell": null,
+        "buy": "92.00",
+        "summa": 100,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103319
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Проспекте Мира",
+      "metro": [
+        [
+          "Алексеевская",
+          "o6",
+          49,
+          709,
+          "709 м"
+        ],
+        [
+          "Рижская",
+          "o7",
+          49,
+          1005,
+          "1.0 км"
+        ],
+        [
+          "ВДНХ",
+          "o5",
+          49,
+          2190,
+          "2.2 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 110-05-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.801536,
+        37.636715
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:00",
+      "rate": {
+        "sell": "93.90",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102664
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Проспекте Мира",
+      "metro": [
+        [
+          "Алексеевская",
+          "o6",
+          49,
+          709,
+          "709 м"
+        ],
+        [
+          "Рижская",
+          "o7",
+          49,
+          1005,
+          "1.0 км"
+        ],
+        [
+          "ВДНХ",
+          "o5",
+          49,
+          2190,
+          "2.2 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 110-05-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.801536,
+        37.636715
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:00",
+      "rate": {
+        "sell": "92.70",
+        "buy": "92.30",
+        "summa": 10000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102664
+    },
+    {
+      "reserve_url": null,
+      "name": "Банк БКФ ДО На Проспекте Мира",
+      "metro": [
+        [
+          "Алексеевская",
+          "o6",
+          49,
+          709,
+          "709 м"
+        ],
+        [
+          "Рижская",
+          "o7",
+          49,
+          1005,
+          "1.0 км"
+        ],
+        [
+          "ВДНХ",
+          "o5",
+          49,
+          2190,
+          "2.2 км"
+        ]
+      ],
+      "phones": [
+        "+7 915 110-05-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.801536,
+        37.636715
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:03:00",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.30",
+        "summa": 30000,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 102664
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 198",
+      "metro": [
+        [
+          "Речной вокзал",
+          "g1",
+          45,
+          99,
+          "99 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.854032,
+        37.475854
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:59",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103182
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 198",
+      "metro": [
+        [
+          "Речной вокзал",
+          "g1",
+          45,
+          99,
+          "99 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.854032,
+        37.475854
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:59",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103182
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 79",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          1388,
+          "1.4 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.899361,
+        37.668201
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:58",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103125
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 79",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          1388,
+          "1.4 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.899361,
+        37.668201
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:58",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103125
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 179",
+      "metro": [
+        [
+          "Университет",
+          "r17",
+          44,
+          416,
+          "416 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.691963,
+        37.527965
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:57",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.60",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103100
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 191",
+      "metro": [
+        [
+          "Новокосино",
+          "y1",
+          56,
+          815,
+          "815 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.751923,
+        37.859309
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:57",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103193
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 179",
+      "metro": [
+        [
+          "Университет",
+          "r17",
+          44,
+          416,
+          "416 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.691963,
+        37.527965
+      ],
+      "mark": "selected",
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:57",
+      "rate": {
+        "sell": "94.40",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103100
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 191",
+      "metro": [
+        [
+          "Новокосино",
+          "y1",
+          56,
+          815,
+          "815 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.751923,
+        37.859309
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:57",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103193
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 195",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2218,
+          "2.2 км"
+        ],
+        [
+          "Тропарево",
+          "r20",
+          44,
+          2535,
+          "2.5 км"
+        ],
+        [
+          "Саларьево",
+          "r22",
+          44,
+          2993,
+          "3.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.62298,
+        37.471515
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:56",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103186
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 195",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2218,
+          "2.2 км"
+        ],
+        [
+          "Тропарево",
+          "r20",
+          44,
+          2535,
+          "2.5 км"
+        ],
+        [
+          "Саларьево",
+          "r22",
+          44,
+          2993,
+          "3.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.62298,
+        37.471515
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:56",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103186
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 27",
+      "metro": [
+        [
+          "Нижегородская (МЦК)",
+          "z25",
+          57,
+          281,
+          "281 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.729873,
+        37.730437
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:55",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103332
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 27",
+      "metro": [
+        [
+          "Нижегородская (МЦК)",
+          "z25",
+          57,
+          281,
+          "281 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.729873,
+        37.730437
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:55",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103332
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 202",
+      "metro": [
+        [
+          "Академическая",
+          "o16",
+          49,
+          8794,
+          "8.8 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61813,
+        37.507484
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:54",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103238
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 202",
+      "metro": [
+        [
+          "Академическая",
+          "o16",
+          49,
+          8794,
+          "8.8 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.61813,
+        37.507484
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:54",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103238
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 192",
+      "metro": [
+        [
+          "Люблино",
+          "p22",
+          62,
+          2757,
+          "2.8 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.679027,
+        37.77643
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:53",
+      "rate": {
+        "sell": "92.99",
+        "buy": "92.30",
+        "summa": 10,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103181
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 192",
+      "metro": [
+        [
+          "Люблино",
+          "p22",
+          62,
+          2757,
+          "2.8 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.679027,
+        37.77643
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:53",
+      "rate": {
+        "sell": "92.90",
+        "buy": "92.30",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103181
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 173",
+      "metro": [
+        [
+          "Автозаводская",
+          "g13",
+          45,
+          396,
+          "396 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 675-44-46",
+        "+7 495 677-47-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.708582,
+        37.662264
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:53",
+      "rate": {
+        "sell": "94.00",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 64919
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 192",
+      "metro": [
+        [
+          "Люблино",
+          "p22",
+          62,
+          2757,
+          "2.8 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.679027,
+        37.77643
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:53",
+      "rate": {
+        "sell": "92.90",
+        "buy": "92.30",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103181
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 173",
+      "metro": [
+        [
+          "Автозаводская",
+          "g13",
+          45,
+          396,
+          "396 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 675-44-46",
+        "+7 495 677-47-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.708582,
+        37.662264
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:53",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.51",
+        "summa": 5000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 64919
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 44",
+      "metro": [
+        [
+          "Таганская (Кольцевая)",
+          "c5",
+          48,
+          317,
+          "317 м"
+        ],
+        [
+          "Марксистская",
+          "y7",
+          56,
+          61,
+          "61 м"
+        ],
+        [
+          "Таганская (Таганско-Краснопресненская)",
+          "v8",
+          50,
+          317,
+          "317 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.740882,
+        37.657682
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:52",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103070
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 44",
+      "metro": [
+        [
+          "Таганская (Кольцевая)",
+          "c5",
+          48,
+          317,
+          "317 м"
+        ],
+        [
+          "Марксистская",
+          "y7",
+          56,
+          61,
+          "61 м"
+        ],
+        [
+          "Таганская (Таганско-Краснопресненская)",
+          "v8",
+          50,
+          317,
+          "317 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.740882,
+        37.657682
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:52",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103070
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 72",
+      "metro": null,
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.707512,
+        37.385573
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:51",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103213
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 72",
+      "metro": null,
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.707512,
+        37.385573
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:51",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103213
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 182",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.564093,
+        38.234086
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:49",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103205
+    },
+    {
+      "reserve_url": null,
+      "name": "БАНК КРЕМЛЕВСКИЙ ДО Тверской",
+      "metro": [
+        [
+          "Маяковская",
+          "g8",
+          45,
+          267,
+          "267 м"
+        ]
+      ],
+      "phones": [
+        "+7 906 060-55-69"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.768507,
+        37.599759
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "93.00",
+        "buy": "92.00",
+        "summa": 100,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103179
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 63",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          461,
+          "461 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.827439,
+        37.444907
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103333
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 66",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ]
+      ],
+      "phones": [
+        "+7 985 458-92-47"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "93.40",
+        "buy": "92.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103207
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 93",
+      "metro": [
+        [
+          "Авиамоторная (Калининская)",
+          "y5",
+          56,
+          749,
+          "749 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.747368,
+        37.707107
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103269
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 93",
+      "metro": [
+        [
+          "Авиамоторная (Калининская)",
+          "y5",
+          56,
+          749,
+          "749 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.747368,
+        37.707107
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103269
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 66",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ]
+      ],
+      "phones": [
+        "+7 985 458-92-47"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "92.95",
+        "buy": "92.50",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103207
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 63",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          461,
+          "461 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.827439,
+        37.444907
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103333
+    },
+    {
+      "reserve_url": null,
+      "name": "БАНК КРЕМЛЕВСКИЙ ДО Ленинградский",
+      "metro": [
+        [
+          "Комсомольская (Кольцевая)",
+          "c3",
+          48,
+          158,
+          "158 м"
+        ],
+        [
+          "Комсомольская (Сокольническая)",
+          "r6",
+          44,
+          158,
+          "158 м"
+        ]
+      ],
+      "phones": [
+        "+7 967 273-94-00"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.774006,
+        37.651619
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": null,
+        "buy": "92.00",
+        "summa": 100,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103121
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 66",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ]
+      ],
+      "phones": [
+        "+7 985 458-92-47"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:48",
+      "rate": {
+        "sell": "92.95",
+        "buy": "92.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103207
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 74",
+      "metro": [
+        [
+          "Домодедовская",
+          "g19",
+          45,
+          2697,
+          "2.7 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.586807,
+        37.724966
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102737
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 169",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          122,
+          "122 м"
+        ],
+        [
+          "Бабушкинская",
+          "o2",
+          49,
+          1890,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.88661,
+        37.660314
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102682
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 152",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ],
+        [
+          "Прокшино",
+          "r24",
+          44,
+          2886,
+          "2.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "92.95",
+        "buy": "92.50",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103309
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 117",
+      "metro": [
+        [
+          "Новые Черемушки",
+          "o18",
+          49,
+          155,
+          "155 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.671443,
+        37.554026
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103264
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 74",
+      "metro": [
+        [
+          "Домодедовская",
+          "g19",
+          45,
+          2697,
+          "2.7 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.586807,
+        37.724966
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102737
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 152",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ],
+        [
+          "Прокшино",
+          "r24",
+          44,
+          2886,
+          "2.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "93.40",
+        "buy": "92.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103309
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 169",
+      "metro": [
+        [
+          "Медведково",
+          "o1",
+          49,
+          122,
+          "122 м"
+        ],
+        [
+          "Бабушкинская",
+          "o2",
+          49,
+          1890,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.88661,
+        37.660314
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "94.90",
+        "buy": "92.00",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102682
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 152",
+      "metro": [
+        [
+          "Тёплый Стан",
+          "o22",
+          49,
+          2950,
+          "3.0 км"
+        ],
+        [
+          "Ольховая",
+          "r25",
+          44,
+          3646,
+          "3.6 км"
+        ],
+        [
+          "Прокшино",
+          "r24",
+          44,
+          2886,
+          "2.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.60101,
+        37.471102
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "92.95",
+        "buy": "92.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103309
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 117",
+      "metro": [
+        [
+          "Новые Черемушки",
+          "o18",
+          49,
+          155,
+          "155 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.671443,
+        37.554026
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:47",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103264
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 91",
+      "metro": [
+        [
+          "Планерная",
+          "v20",
+          50,
+          4594,
+          "4.6 км"
+        ],
+        [
+          "Ховрино",
+          "g24",
+          45,
+          5070,
+          "5.1 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.900128,
+        37.409684
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:45",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103398
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО №26",
+      "metro": [
+        [
+          "Петровско-Разумовская (Серпуховско-Тимирязевская)",
+          "d5",
+          51,
+          255,
+          "255 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.838,
+        37.576861
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103208
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 204",
+      "metro": [
+        [
+          "Улица Старокачаловская",
+          "a2",
+          54,
+          322,
+          "322 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.570024,
+        37.580652
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103239
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 194",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        56.175417,
+        36.998948
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103334
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО №26",
+      "metro": [
+        [
+          "Петровско-Разумовская (Серпуховско-Тимирязевская)",
+          "d5",
+          51,
+          255,
+          "255 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.838,
+        37.576861
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103208
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 204",
+      "metro": [
+        [
+          "Улица Старокачаловская",
+          "a2",
+          54,
+          322,
+          "322 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.570024,
+        37.580652
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103239
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 194",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        56.175417,
+        36.998948
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:44",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.90",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103334
+    },
+    {
+      "reserve_url": null,
+      "name": "БАНК КРЕМЛЕВСКИЙ ОКВКУ Аврора",
+      "metro": [
+        [
+          "Лубянка",
+          "r9",
+          44,
+          795,
+          "795 м"
+        ],
+        [
+          "Кузнецкий мост",
+          "v10",
+          50,
+          511,
+          "511 м"
+        ],
+        [
+          "Театральная",
+          "g10",
+          45,
+          461,
+          "461 м"
+        ]
+      ],
+      "phones": [
+        "+7 903 575-11-83"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.762905,
+        37.616575
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:43",
+      "rate": {
+        "sell": "93.00",
+        "buy": "90.00",
+        "summa": 100,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102450
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 209",
+      "metro": [
+        [
+          "Новопеределкино",
+          "y19",
+          56,
+          104,
+          "104 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 511-41-96"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.640548,
+        37.355201
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:42",
+      "rate": {
+        "sell": "93.50",
+        "buy": "91.90",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103413
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 58",
+      "metro": [
+        [
+          "Беляево",
+          "o20",
+          49,
+          305,
+          "305 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.641031,
+        37.530355
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:41",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103397
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 58",
+      "metro": [
+        [
+          "Беляево",
+          "o20",
+          49,
+          305,
+          "305 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.641031,
+        37.530355
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:41",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103397
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 184",
+      "metro": [
+        [
+          "Отрадное",
+          "d3",
+          51,
+          244,
+          "244 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.865399,
+        37.604538
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:40",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103190
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 184",
+      "metro": [
+        [
+          "Отрадное",
+          "d3",
+          51,
+          244,
+          "244 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.865399,
+        37.604538
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:40",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.90",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103190
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 203",
+      "metro": null,
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.671935,
+        37.279375
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:39",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103231
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 216",
+      "metro": [
+        [
+          "Новокосино",
+          "y1",
+          56,
+          38118,
+          "38.1 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.853466,
+        38.440609
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:39",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103462
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 203",
+      "metro": null,
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.671935,
+        37.279375
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:39",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103231
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 190",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.916678,
+        37.759264
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:37",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103192
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 190",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.916678,
+        37.759264
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:37",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103192
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 213",
+      "metro": [
+        [
+          "Китай-город (Калужско-Рижская)",
+          "o11",
+          49,
+          64,
+          "64 м"
+        ],
+        [
+          "Китай-город (Таганско-Краснопресненская)",
+          "v9",
+          50,
+          64,
+          "64 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 625-55-16"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.754578,
+        37.63482
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:36",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.00",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103337
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 98",
+      "metro": [
+        [
+          "Новогиреево",
+          "y2",
+          56,
+          219,
+          "219 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.750824,
+        37.820322
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:34",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102732
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 215",
+      "metro": [
+        [
+          "Ховрино",
+          "g24",
+          45,
+          24168,
+          "24.2 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.983197,
+        37.142283
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:34",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103346
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 98",
+      "metro": [
+        [
+          "Новогиреево",
+          "y2",
+          56,
+          219,
+          "219 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.750824,
+        37.820322
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:34",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102732
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 215",
+      "metro": [
+        [
+          "Ховрино",
+          "g24",
+          45,
+          24168,
+          "24.2 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.983197,
+        37.142283
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:34",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103346
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 52",
+      "metro": [
+        [
+          "Чертановская",
+          "d20",
+          51,
+          218,
+          "218 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.638968,
+        37.604008
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:33",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103262
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 9",
+      "metro": [
+        [
+          "Октябрьское поле",
+          "v16",
+          50,
+          251,
+          "251 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 675-44-46",
+        "+7 495 677-47-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.791653,
+        37.491242
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:33",
+      "rate": {
+        "sell": "94.00",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102919
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 9",
+      "metro": [
+        [
+          "Октябрьское поле",
+          "v16",
+          50,
+          251,
+          "251 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 675-44-46",
+        "+7 495 677-47-37"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.791653,
+        37.491242
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:33",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.51",
+        "summa": 5000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102919
+    },
+    {
+      "reserve_url": null,
+      "name": "БАНК КРЕМЛЕВСКИЙ ДО Рижский",
+      "metro": [
+        [
+          "Рижская",
+          "o7",
+          49,
+          260,
+          "260 м"
+        ],
+        [
+          "Рижская (МЦД-2)",
+          "p15",
+          62,
+          475,
+          "475 м"
+        ]
+      ],
+      "phones": [
+        "+7 903 599-02-19"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.791278,
+        37.632601
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:33",
+      "rate": {
+        "sell": null,
+        "buy": "92.00",
+        "summa": 100,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103339
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 52",
+      "metro": [
+        [
+          "Чертановская",
+          "d20",
+          51,
+          218,
+          "218 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.638968,
+        37.604008
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:33",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103262
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 167",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.996701,
+        37.883959
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:32",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103400
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 167",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.996701,
+        37.883959
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:32",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103400
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 135",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          3877,
+          "3.9 км"
+        ],
+        [
+          "Щукинская (Таганско-Краснопресненская)",
+          "v17",
+          50,
+          5034,
+          "5.0 км"
+        ],
+        [
+          "Строгино",
+          "b18",
+          46,
+          1423,
+          "1.4 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.810121,
+        37.383514
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:30",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102353
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 135",
+      "metro": [
+        [
+          "Тушинская (Таганско-Краснопресненская)",
+          "v18",
+          50,
+          3877,
+          "3.9 км"
+        ],
+        [
+          "Щукинская (Таганско-Краснопресненская)",
+          "v17",
+          50,
+          5034,
+          "5.0 км"
+        ],
+        [
+          "Строгино",
+          "b18",
+          46,
+          1423,
+          "1.4 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.810121,
+        37.383514
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:30",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102353
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 214",
+      "metro": null,
+      "phones": [
+        "+7 925 511-41-96"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.705387,
+        37.47916
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:29",
+      "rate": {
+        "sell": "93.90",
+        "buy": "91.50",
+        "summa": 3000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103338
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 6",
+      "metro": [
+        [
+          "Динамо",
+          "g6",
+          45,
+          670,
+          "670 м"
+        ],
+        [
+          "Петровский парк",
+          "k2",
+          59,
+          508,
+          "508 м"
+        ],
+        [
+          "Аэропорт",
+          "g5",
+          45,
+          1965,
+          "2.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795125,
+        37.562838
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:29",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103090
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 6",
+      "metro": [
+        [
+          "Динамо",
+          "g6",
+          45,
+          670,
+          "670 м"
+        ],
+        [
+          "Петровский парк",
+          "k2",
+          59,
+          508,
+          "508 м"
+        ],
+        [
+          "Аэропорт",
+          "g5",
+          45,
+          1965,
+          "2.0 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795125,
+        37.562838
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:29",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.90",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103090
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 60",
+      "metro": [
+        [
+          "Котельники",
+          "v23",
+          50,
+          745,
+          "745 м"
+        ],
+        [
+          "Жулебино",
+          "v1",
+          50,
+          1917,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.668371,
+        37.865804
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:28",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102727
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 60",
+      "metro": [
+        [
+          "Котельники",
+          "v23",
+          50,
+          745,
+          "745 м"
+        ],
+        [
+          "Жулебино",
+          "v1",
+          50,
+          1917,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.668371,
+        37.865804
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:28",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102727
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 154 Садовод",
+      "metro": null,
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.652888,
+        37.828712
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:26",
+      "rate": {
+        "sell": "93.50",
+        "buy": "92.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103237
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 154 Садовод",
+      "metro": null,
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.652888,
+        37.828712
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:26",
+      "rate": {
+        "sell": "93.15",
+        "buy": "92.55",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103237
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 154 Садовод",
+      "metro": null,
+      "phones": [
+        "+7 989 048-11-35",
+        "+7 929 645-31-14"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.652888,
+        37.828712
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:26",
+      "rate": {
+        "sell": "93.15",
+        "buy": "92.55",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103237
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 153",
+      "metro": [
+        [
+          "Пражская",
+          "d22",
+          51,
+          164,
+          "164 м"
+        ],
+        [
+          "Южная",
+          "d21",
+          51,
+          1149,
+          "1.1 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.612182,
+        37.607026
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:25",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102730
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 153",
+      "metro": [
+        [
+          "Пражская",
+          "d22",
+          51,
+          164,
+          "164 м"
+        ],
+        [
+          "Южная",
+          "d21",
+          51,
+          1149,
+          "1.1 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.612182,
+        37.607026
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:25",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102730
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 108 Томилино",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.65819,
+        37.922775
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:25",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103196
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 108 Томилино",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.65819,
+        37.922775
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:25",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103196
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 205",
+      "metro": [
+        [
+          "Озерная",
+          "y15",
+          56,
+          218,
+          "218 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 511-41-96"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.671331,
+        37.445814
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:24",
+      "rate": {
+        "sell": "93.90",
+        "buy": "91.50",
+        "summa": 3000,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103266
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 208",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.89183,
+        37.727607
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103302
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 186",
+      "metro": [
+        [
+          "Аннино",
+          "d24",
+          51,
+          8899,
+          "8.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.545874,
+        37.721103
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103184
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 186",
+      "metro": [
+        [
+          "Аннино",
+          "d24",
+          51,
+          8899,
+          "8.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.545874,
+        37.721103
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103184
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 131",
+      "metro": [
+        [
+          "Пятницкое шоссе",
+          "b22",
+          46,
+          31683,
+          "31.7 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.913061,
+        36.858146
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103401
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 208",
+      "metro": null,
+      "phones": [
+        "+7 925 006-85-40"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.89183,
+        37.727607
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.85",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103302
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 131",
+      "metro": [
+        [
+          "Пятницкое шоссе",
+          "b22",
+          46,
+          31683,
+          "31.7 км"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.913061,
+        36.858146
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:23",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103401
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 130",
+      "metro": [
+        [
+          "Кантемировская",
+          "g16",
+          45,
+          647,
+          "647 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.630461,
+        37.658652
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:21",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103331
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 104",
+      "metro": [
+        [
+          "Проспект Вернадского",
+          "r18",
+          44,
+          148,
+          "148 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.67559,
+        37.506038
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:21",
+      "rate": {
+        "sell": "94.90",
+        "buy": "91.80",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103211
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 130",
+      "metro": [
+        [
+          "Кантемировская",
+          "g16",
+          45,
+          647,
+          "647 м"
+        ]
+      ],
+      "phones": [
+        "+7 926 610-23-18"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.630461,
+        37.658652
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:21",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.75",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103331
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 104",
+      "metro": [
+        [
+          "Проспект Вернадского",
+          "r18",
+          44,
+          148,
+          "148 м"
+        ]
+      ],
+      "phones": [
+        "+7 925 789-61-36"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.67559,
+        37.506038
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:21",
+      "rate": {
+        "sell": "95.00",
+        "buy": "91.75",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103211
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 176",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.658835,
+        37.741908
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:20",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103402
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЮНИСТРИМ ОО № 176",
+      "metro": null,
+      "phones": [
+        "+7 926 331-08-57"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.658835,
+        37.741908
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:02:20",
+      "rate": {
+        "sell": "94.50",
+        "buy": "91.50",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103402
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Бизнес-центр Цветной бульвар",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.772892,
+        37.622037
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103321
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение ВДНХ",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.825578,
+        37.647244
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103324
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение МОСКОВСКИЙ КРЕДИТНЫЙ БАНК",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.795504,
+        37.493093
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103323
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Южнобутовское",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.535167,
+        37.527705
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103326
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Раменское",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.568227,
+        38.223261
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103327
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Пушкинское",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        56.009159,
+        37.85515
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103328
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Бауманское",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.773034,
+        37.675765
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103325
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Тимирязевское",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.819985,
+        37.580202
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:06",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103329
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Луков переулок",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.768056,
+        37.632664
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:01:05",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103290
+    },
+    {
+      "reserve_url": null,
+      "name": "КИВИ Банк ДО Варшавка",
+      "metro": [
+        [
+          "Варшавская",
+          "m2",
+          53,
+          425,
+          "425 м"
+        ]
+      ],
+      "phones": [
+        "+7 800 200-62-25",
+        "+7 495 231-36-45 доб. 2622",
+        "+7 495 231-36-45 доб. 2621"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.657093,
+        37.620249
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:30",
+      "rate": {
+        "sell": "93.88",
+        "buy": "90.56",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103417
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Бабушкинский",
+      "metro": [
+        [
+          "Бабушкинская",
+          "o2",
+          49,
+          193,
+          "193 м"
+        ],
+        [
+          "Медведково",
+          "o1",
+          49,
+          1893,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.870471,
+        37.661734
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.30",
+        "buy": "88.30",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 102907
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Большая Семеновская",
+      "metro": [
+        [
+          "Электрозаводская (Арбатско-Покровская)",
+          "b6",
+          46,
+          117,
+          "117 м"
+        ],
+        [
+          "Электрозаводская (Некрасовская)",
+          "w1",
+          58,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.781848,
+        37.707107
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.20",
+        "buy": "88.40",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 103087
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Бабушкинский",
+      "metro": [
+        [
+          "Бабушкинская",
+          "o2",
+          49,
+          193,
+          "193 м"
+        ],
+        [
+          "Медведково",
+          "o1",
+          49,
+          1893,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.870471,
+        37.661734
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.20",
+        "buy": "88.40",
+        "summa": 10001,
+        "volume": 3,
+        "currency": 3,
+        "volume_id": 3,
+        "commiss": false
+      },
+      "id": 102907
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Большая Семеновская",
+      "metro": [
+        [
+          "Электрозаводская (Арбатско-Покровская)",
+          "b6",
+          46,
+          117,
+          "117 м"
+        ],
+        [
+          "Электрозаводская (Некрасовская)",
+          "w1",
+          58,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.781848,
+        37.707107
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.30",
+        "buy": "88.30",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103087
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Бабушкинский",
+      "metro": [
+        [
+          "Бабушкинская",
+          "o2",
+          49,
+          193,
+          "193 м"
+        ],
+        [
+          "Медведково",
+          "o1",
+          49,
+          1893,
+          "1.9 км"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.870471,
+        37.661734
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.30",
+        "buy": "88.30",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 102907
+    },
+    {
+      "reserve_url": null,
+      "name": "КБ ЛОКО-Банк ДО Большая Семеновская",
+      "metro": [
+        [
+          "Электрозаводская (Арбатско-Покровская)",
+          "b6",
+          46,
+          117,
+          "117 м"
+        ],
+        [
+          "Электрозаводская (Некрасовская)",
+          "w1",
+          58,
+          310,
+          "310 м"
+        ]
+      ],
+      "phones": [
+        "+7 495 739-55-55"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.781848,
+        37.707107
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:06",
+      "rate": {
+        "sell": "96.30",
+        "buy": "88.30",
+        "summa": 1001,
+        "volume": 2,
+        "currency": 3,
+        "volume_id": 2,
+        "commiss": false
+      },
+      "id": 103087
+    },
+    {
+      "reserve_url": null,
+      "name": "МОСКОВСКИЙ КРЕДИТНЫЙ БАНК Отделение Нева Тауэрс",
+      "metro": null,
+      "phones": [
+        "+7 495 777-48-88",
+        "+7 800 100-48-88",
+        "+7 495 797-42-34"
+      ],
+      "premium_type": null,
+      "coordinates": [
+        55.751133,
+        37.533724
+      ],
+      "mark": null,
+      "dt_last_published": "Sun, 12 Nov 2023 17:00:05",
+      "rate": {
+        "sell": "96.50",
+        "buy": "91.50",
+        "summa": 1,
+        "volume": 1,
+        "currency": 3,
+        "volume_id": 1,
+        "commiss": false
+      },
+      "id": 103322
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+version: "3"
+services:
+
+#  web:
+#    image: library/python:3.11
+#    command: python3 -m http.server 8000
+#    working_dir: /web-data
+#    volumes:
+#      - ./web-data:/web-data
+#    ports:
+#      - "8000:8000"
+
+  je:
+    image: prometheuscommunity/json-exporter:v0.6.0
+    command: --config.file=/config.yml
+    restart: always
+    ports:
+      - "7979:7979"
+    volumes:
+      - ./json-exporter-config.yml:/config.yml
+
+  prometheus:
+    image: prom/prometheus:v2.47.2
+    restart: always
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus-data:/prometheus
